@@ -1,0 +1,43 @@
+.row {
+    margin: 40px 0 !important;
+    gap: 15px;
+}
+
+.nav {
+    background-color: #0c5460;
+}
+
+.nav a {
+   color: #fff;
+}
+
+.nav a:hover {
+    color: #fae156;
+}
+
+.nav .dropdown a {
+    color: #0c5460 !important;
+}
+
+.nav .dropdown a:hover {
+    color: #fff;
+}
+
+.nav a.dropdown-toggle {
+    color: #fff !important;
+}
+
+.nav a.dropdown-toggle:hover {
+    color: #fae156;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.card .btn {
+    background-color: #0c5460;
+}
